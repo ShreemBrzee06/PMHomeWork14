@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="home-office-visa-check" />
+        <module name="nopcommerce.demo (2)" />
+        <module name="ninjaTutorials" />
+        <module name="nopcommerce.demo (1)" />
+        <module name="cv_library" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nopcommerce.demo" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
