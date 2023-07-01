@@ -2,19 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="home-office-visa-check" />
-        <module name="nopcommerce.demo (2)" />
         <module name="ninjaTutorials" />
+        <module name="nopcommerce.demo (2)" />
         <module name="nopcommerce.demo (1)" />
         <module name="cv_library" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="nopcommerce" target="1.8" />
       <module name="nopcommerce.demo" target="1.7" />
+      <module name="parabank" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
